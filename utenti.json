@@ -1,0 +1,19 @@
+{
+    "alessandronochionori@gmail.com" : {
+        "password" : "falchetto98",
+        "privilegi" : "w",
+        "note" : "Amministratore del sistema"
+    },
+
+    "cikolino123@gmail.com": {
+        "password" : "pesciolino99",
+        "privilegi" : "w",
+        "note" : "sportello frazione 1"
+    },
+
+    "flavietto99@gmail.com" : {
+        "password" : "flavietto99",
+        "privilegi" : "r",
+        "note"  : "operatore sportello frazione 2"
+    }
+}
